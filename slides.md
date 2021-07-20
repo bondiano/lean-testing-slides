@@ -594,6 +594,11 @@ Storybook, Cypress
 * [Write tests. Not too many. Mostly integration](https://kentcdodds.com/blog/write-tests)
 * Приложения с примеров: [React Native](https://github.com/bondiano/react-native-test-form), [React](https://github.com/bondiano/react-test-form)
 
+<div class="flex content-end flex-col">
+  Слайды: <a class="mb-4" href="https://lean-testing.bondiano.io">lean-testing.bondiano.io</a>
+  <img src="/qr_code.gif" style="height: 150px; width: 150px"/>
+</div>
+
 ---
 layout: section
 ---

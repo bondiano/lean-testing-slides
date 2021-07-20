@@ -3,7 +3,7 @@
 To start the slide show:
 
 - `yarn`
-- `yarn dev`
+- `yarn start`
 - visit http://localhost:3030
 
 Edit the [slides.md](./slides.md) to see the changes.

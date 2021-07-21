@@ -4,7 +4,7 @@ background: /background.png
 class: text-center
 highlighter: shiki
 routerMode: 'hash'
-onts:
+fonts:
   sans: 'Roboto'
   serif: 'Roboto Slab'
   mono: 'Fira Code'
@@ -227,11 +227,11 @@ layout: statement
 <div class="flex">
   <div class="pr-30">
     <h2>Create Account</h2>
-    <img src="/signup_screenshot.png" style="height: 300px">
+    <img src="/signup_screenshot.png" style="height: 350px">
   </div>
   <div>
     <h2>Sign in</h2>
-    <img src="/signin_screenshot.png" style="height: 300px">
+    <img src="/signin_screenshot.png" style="height: 350px">
   </div>
 </div>
 

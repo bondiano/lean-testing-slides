@@ -13,5 +13,8 @@
   "name": "lean-testing",
   "devDependencies": {
     "playwright-chromium": "^1.12.3"
+  },
+  "slidev": {
+    "colorSchema": "dark"
   }
 }
